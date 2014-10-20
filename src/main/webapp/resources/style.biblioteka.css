@@ -1,0 +1,67 @@
+body {
+    background-image: url('biblioteka313.jpg')
+}
+
+#tabela {
+       color: black;
+       font-style: italic ;
+/*       font-family: ;*/
+       font-size:1px;
+/*       hight:80%;*/
+       float:left;
+       width: 1000px;
+       padding-left: 5px;
+      
+ }
+ 
+ #tabela td{
+        background-color: #eeeeee;
+        color: black;
+        padding-left: 8px;
+        padding-right: 8px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        text-align: center;
+ }
+ 
+ #tabela th{
+        color: black;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        border:0px solid black;
+        text-align: center;
+        line-height:30px;
+        padding-left: 8px;
+        padding-right: 8px;
+        
+ }
+ #tabela tr {
+        background-color: #eeeeee;
+        color: black;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        text-align: center;
+        padding-left: 8px;
+        padding-right: 8px;
+ }
+ 
+ #section32 {
+     background-color: #ADD8E6;
+     float: left;
+     hight: 80%;
+    width: auto;
+     font-style: italic;
+     font-variant: small-caps;  
+     padding-left: 20px;
+     padding-right: 20px;
+     
+ }
+ 
+ #section32.d {
+     text-align: center;
+     font-style: italic;
+     
+ }
+ 
+
+ 

@@ -1,0 +1,33 @@
+body {
+    background-image: url('biblioteka313.jpg');
+}
+
+#section42 {
+     background-color: #ADD8E6;
+     float: left;
+     hight: 90%;
+     width: 250px;
+     font-style: italic;
+     font-variant: small-caps;  
+     padding-left: 50px;
+    
+    
+}
+
+#section53{
+    float: right;
+    background-color:#eeeeee;
+    hight:30%;
+    width: 40%;
+    font-family: italic;
+    font-variant: small-caps;
+   
+    padding-right: 20px;
+    padding-bottom: 20px;
+    text-align: right;
+}
+
+#section53 h6 {
+    font-family: sans-serif;
+    text-align: right;
+}

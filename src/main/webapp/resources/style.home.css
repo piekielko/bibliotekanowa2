@@ -1,0 +1,53 @@
+body {
+   background-color:#eeeeee; 
+}
+
+#section1{
+    background-color:#ADD8E6;
+    color:lightslategrey;
+    text-align:center;
+    font-variant-caps: normal;
+    width: 100%;
+    padding-top: 20px;
+    
+} 
+#subsection1 {
+    background-color:#ADD8E6;
+    color:lightslategrey;
+    text-align:center;
+    font-style: italic;
+    font-variant: small-caps;  
+}
+
+#section2 {
+   background-image: url('biblioteka313.jpg');
+    background-repeat: no-repeat;
+    height: 64%;
+    width:75%;
+    float:right;
+ 
+}
+
+#section3 {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:64% ;
+    width:18%;
+    float:left;
+    color: lightslategrey;
+    text-align:right;
+    font-style: italic;
+    padding-left: 10px;
+  
+
+}
+#section4 {
+    background-color:#ADD8E6;
+    color:lightslategrey;
+    clear:both;
+    font-style: italic;
+    font-variant: small-caps;
+    text-align:center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}

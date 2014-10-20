@@ -1,0 +1,16 @@
+body {
+   background-image: url('biblioteka313.jpg');
+   background-repeat: no-repeat;
+}
+
+#section42 {
+   
+    background-color: #ADD8E6;
+     float: left;
+     hight: 80%;
+     width: auto;
+     font-style: italic;
+     font-variant: small-caps;  
+     padding-left: 50px;
+     padding-right: 50px;
+}
