@@ -4,7 +4,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link href="${pageContext.request.contextPath}/resources/style.duka.css" rel="stylesheet" type="text/css"/>
-<title>Insert title here</title>
+<title>Biblioteka zmien</title>
 </head>
 <body>
         
@@ -15,7 +15,7 @@
                  <br>
 		Tytul
                 <br>
-                <form:input path="tytul" />
+                <form:input path="tytul"  />
                 <from:errors path="tytul" cssStyle="color:red"/>
                 <br>
 		<br>

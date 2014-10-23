@@ -5,7 +5,7 @@
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 
 <link href="${pageContext.request.contextPath}/resources/style.biblioteka.css" rel="stylesheet" type="text/css"/>
-<title>Insert title here</title>
+<title>Biblioteka</title>
 <style>
  
 </style>
